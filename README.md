@@ -5,13 +5,11 @@
 
 ![Dilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdilon&show_icons=true&theme=tokyonight)
 <h2>Currently studying:</h2>
-<div style="display: inline_block">
-  <img align="center" alt="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div>
+
+![C-Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 <h3>Soon:</h3>
-<div style="display: inline_block">
-  <img align="left" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+

@@ -1,7 +1,6 @@
 <h2>Hi, I am Matheus Dilon! 👋</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-dilon-da-fonseca-matias-74ab96266/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdilon28/)
 
 ![Dilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdilon&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdilon&layout=compact&exclude_repo=AutoResponseWhatsappBot&theme=tokyonight)
